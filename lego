@@ -1,0 +1,17 @@
+ <style type="text/css">
+  a:link,a:visited {
+   color: #0000A0;
+   background-color: #FFFFFF;
+   text-decoration: none;
+   target-new: none;
+  }
+  a:hover {
+   color: #0000FF;
+   background-color: #FFFFC0;
+   text-decoration: underline;
+   target-new: none;
+  }
+ </style>
+
+
+ <a href="https://api.whatsapp.com/send?phone=6581839887&text=Click%20SEND%20to%20WhatsApp%20me%20now%20or%20call%20me%20@%20+65%2081839887"><img src="http://1.bp.blogspot.com/-oaiJXge-1Sw/XBhZoCtzc2I/AAAAAAAABig/zGY6ynQrcTgSOun6DfrL3uAJJdCaWkAaQCLcBGAs/s1600/ai_portal_logo_Black.jpg"></a>
